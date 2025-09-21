@@ -24,4 +24,4 @@ _Add a screenshot here if you like!_
 ## 📂 How to Use
 You can simply clone or download this repository:
 
-Visit my [Crush Page](https://ankitjaswalk.github.io/Crush/) 💖
+Visit my [Crush Page](https://ankitjaswalk.github.io/Crush_on_Web/) 💖
