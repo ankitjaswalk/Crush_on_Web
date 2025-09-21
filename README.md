@@ -18,8 +18,6 @@ I built this in my free time, just for fun (and maybe a little love 😄).
 - CSS
 - JavaScript (if included)
 
-## 📸 Screenshots
-_Add a screenshot here if you like!_
 
 ## 📂 How to Use
 You can simply clone or download this repository:
